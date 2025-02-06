@@ -1,0 +1,14 @@
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\bin\Debug\net8.0\Loose VS Tight Coupling .EX.exe
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\bin\Debug\net8.0\Loose VS Tight Coupling .EX.deps.json
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\bin\Debug\net8.0\Loose VS Tight Coupling .EX.runtimeconfig.json
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\bin\Debug\net8.0\Loose VS Tight Coupling .EX.dll
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\bin\Debug\net8.0\Loose VS Tight Coupling .EX.pdb
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.AssemblyInfoInputs.cache
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.AssemblyInfo.cs
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.csproj.CoreCompileInputs.cache
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.dll
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\refint\Loose VS Tight Coupling .EX.dll
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.pdb
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\Loose VS Tight Coupling .EX.genruntimeconfig.cache
+D:\DesignPrinciple\Loose VS Tight Coupling\Loose VS Tight Coupling .EX\obj\Debug\net8.0\ref\Loose VS Tight Coupling .EX.dll
