@@ -1,0 +1,14 @@
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\bin\Debug\net8.0\EncapculateWhatVarient.exe
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\bin\Debug\net8.0\EncapculateWhatVarient.deps.json
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\bin\Debug\net8.0\EncapculateWhatVarient.runtimeconfig.json
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\bin\Debug\net8.0\EncapculateWhatVarient.dll
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\bin\Debug\net8.0\EncapculateWhatVarient.pdb
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.AssemblyInfoInputs.cache
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.AssemblyInfo.cs
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.csproj.CoreCompileInputs.cache
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.dll
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\refint\EncapculateWhatVarient.dll
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.pdb
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\EncapculateWhatVarient.genruntimeconfig.cache
+D:\DesignPrinciple\EncapculateWhatVarient\EncapculateWhatVarient\obj\Debug\net8.0\ref\EncapculateWhatVarient.dll
