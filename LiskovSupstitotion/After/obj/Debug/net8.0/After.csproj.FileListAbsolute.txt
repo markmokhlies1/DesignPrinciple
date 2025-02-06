@@ -1,0 +1,14 @@
+D:\DesignPrinciple\LiskovSupstitotion\After\bin\Debug\net8.0\After.exe
+D:\DesignPrinciple\LiskovSupstitotion\After\bin\Debug\net8.0\After.deps.json
+D:\DesignPrinciple\LiskovSupstitotion\After\bin\Debug\net8.0\After.runtimeconfig.json
+D:\DesignPrinciple\LiskovSupstitotion\After\bin\Debug\net8.0\After.dll
+D:\DesignPrinciple\LiskovSupstitotion\After\bin\Debug\net8.0\After.pdb
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.AssemblyInfoInputs.cache
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.AssemblyInfo.cs
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.csproj.CoreCompileInputs.cache
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.dll
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\refint\After.dll
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.pdb
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\After.genruntimeconfig.cache
+D:\DesignPrinciple\LiskovSupstitotion\After\obj\Debug\net8.0\ref\After.dll

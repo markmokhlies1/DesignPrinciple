@@ -1,0 +1,14 @@
+D:\DesignPrinciple\InterfaceSegrgation\Before\bin\Debug\net8.0\Before.exe
+D:\DesignPrinciple\InterfaceSegrgation\Before\bin\Debug\net8.0\Before.deps.json
+D:\DesignPrinciple\InterfaceSegrgation\Before\bin\Debug\net8.0\Before.runtimeconfig.json
+D:\DesignPrinciple\InterfaceSegrgation\Before\bin\Debug\net8.0\Before.dll
+D:\DesignPrinciple\InterfaceSegrgation\Before\bin\Debug\net8.0\Before.pdb
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.AssemblyInfoInputs.cache
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.AssemblyInfo.cs
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.csproj.CoreCompileInputs.cache
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.dll
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\refint\Before.dll
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.pdb
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\Before.genruntimeconfig.cache
+D:\DesignPrinciple\InterfaceSegrgation\Before\obj\Debug\net8.0\ref\Before.dll
